@@ -15,3 +15,10 @@
 | CSP-S 2024 | 擂台游戏 / arena | NOI/NOI+/CTSC |  
 
 ## NOIP
+
+## Ynoi
+
+| # | 题目 | 难度 | 知识点 | 完成情况 |
+| :---: | :---: | :---: | :---: | :---: |
+| Ynoi 2025 (April Fools Round) | 牢爱 | 提高+/省选- | 数学, 倍增, 树状数组 | $\checkmark$ |
+| Ynoi 2025 (April Fools Round) | 牢夸 | 提高+/省选- | 线段树 | $\checkmark$ | 
