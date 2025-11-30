@@ -20,5 +20,6 @@
 
 | # | 题目 | 难度 | 知识点 | 完成情况 |
 | :---: | :---: | :---: | :---: | :---: |
+| Ynoi 2008 | stcm | 省选/NOI- | 整体二分 | $\checkmark$ |
 | Ynoi 2025 (April Fools Round) | 牢爱 | 提高+/省选- | 数学, 倍增, 树状数组 | $\checkmark$ |
 | Ynoi 2025 (April Fools Round) | 牢夸 | 提高+/省选- | 线段树 | $\checkmark$ | 
