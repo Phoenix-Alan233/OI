@@ -13,6 +13,9 @@
 | CSP-S 2024 | 超速检测 / detect | 普及+/提高 | 模拟, 贪心, 二合一 | $\checkmark$ |
 | CSP-S 2024 | 染色 / color | 提高+/省选- | 思维, dp | $\checkmark$ |
 | CSP-S 2024 | 擂台游戏 / arena | NOI/NOI+/CTSC |  
+| CSP-S 2023 | 密码锁 / lock | 普及- | 模拟 | $\checkmark$ |
+| CSP-S 2023 | 消消乐 / game | 提高+/省选- | 贪心, dp | $\checkmark$ |
+
 
 ## NOIP
 
